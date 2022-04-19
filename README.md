@@ -12,7 +12,7 @@
 ![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
 
 - [Descrição](#descrição)
-- [Instruções](#instruções)
+- [Projetos](#Projetos)
 - [Tecnologias Envolvidas](#tecnologias-envolvidas)
 - [Roadmap](#roadmap)
 - [Outras informações](#outras-informações)
@@ -33,13 +33,10 @@ Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao esta
 -->
 ![IMAGEM DO PROJETO](https://user-images.githubusercontent.com/6373438/157749627-e718fa74-f7ce-49e8-9ffa-81271f47daf5.png)
 
-# Instruções
+# Projetos
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
+- [01_Expanding Cards](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/01_expanding_cards/)
+- [02_Rotate_Nav](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/02_rotate_nav/)
 
 # Tecnologias Envolvidas
 
