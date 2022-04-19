@@ -37,6 +37,8 @@ Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao esta
 
 - [01_Expanding Cards](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/01_expanding_cards/)
 - [02_Rotate_Nav](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/02_rotate_nav/)
+- [03_Hidden_Search](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/03_hidden_search/)
+- [04_Blurry_Load](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/04_blurry_load/)
 
 # Tecnologias Envolvidas
 
