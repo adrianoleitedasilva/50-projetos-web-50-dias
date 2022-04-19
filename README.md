@@ -12,7 +12,7 @@
 ![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
 
 - [Descrição](#descrição)
-- [Projetos](#Projetos)
+- [Projetos](#projetos)
 - [Tecnologias Envolvidas](#tecnologias-envolvidas)
 - [Roadmap](#roadmap)
 - [Outras informações](#outras-informações)
