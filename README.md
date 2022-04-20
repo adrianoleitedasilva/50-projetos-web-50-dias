@@ -1,7 +1,6 @@
 <!-- PARA ESCOLHER AS CORES DAS LINGUAGENS USAR O SITE https://brandcolors.net/ -->
-![ShielddoProjeto](https://img.shields.io/badge/Nome-50_Projetos_Web_50_Dias-b52e31.svg?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/badge/Nome-50_Projetos_Web_50_Dias-e2001a.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Versão-1.0.0-e9ebec.svg?style=for-the-badge)
-![ShielddoProjeto](https://img.shields.io/badge/License-GNU-orange?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Markup-HTML-e34f26.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Estilo-CSS-002561.svg?style=for-the-badge)
 ![ShielddoProjeto](https://img.shields.io/badge/Linguagem-JavaScript-f7df1e.svg?style=for-the-badge)
