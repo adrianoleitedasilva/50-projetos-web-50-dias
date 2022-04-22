@@ -14,7 +14,7 @@
 
 - [Descrição](#descrição)
 - [Projetos](#projetos)
-s
+
 # Descrição
 
 Esse é um mega projeto, aonde estou colocando 50 projetos web, utilizando HTML, CSS e JavaScript. Que serão desenvolvidos em 50 dias ou menos. A ideia é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
@@ -43,5 +43,5 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [11_FAQ](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/11_faq/)
 - [12_Random_Choice_Picker](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/12_random_choice_picker/)
 - [13_Animated_Navigation](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/13_animated_navigation/)
-- [14_Incrementing_Counter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/14_incrementing_navigation/)
+- [14_Incrementing_Counter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/14_incrementing_counter/)
 - [15_Drink_Water](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/15_drink_water/)
