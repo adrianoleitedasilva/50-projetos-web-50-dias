@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fcriticalhits.com.br%2Fgames%2Fplaystation-5-ps5-melhores-jogos%2F&psig=AOvVaw03hJbYdS9jojt7BzzIjrni&ust=1650718890475000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICyuZrdp_cCFQAAAAAdAAAAABAE');
+    background: url('ps.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -90,7 +90,7 @@ h1 {
 
 .split.right {
     right: 0;
-    background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fgizmodo.uol.com.br%2Freview-xbox-series-x%2F&psig=AOvVaw1FJghFuaALd358141wwwCn&ust=1650719152495000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiWtZfep_cCFQAAAAAdAAAAABAF');
+    background: url('xbox.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
