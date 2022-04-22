@@ -10,29 +10,22 @@
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/50-projetos-web-50-dias?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
-![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/157747252-231fc7b4-ee96-45fb-a7e0-1278862b6b0f.png)
+![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/164737115-a20006a8-b50a-4231-a7be-eccb3337e5af.png)
 
 - [Descrição](#descrição)
 - [Projetos](#projetos)
-- [Tecnologias Envolvidas](#tecnologias-envolvidas)
-- [Roadmap](#roadmap)
-- [Outras informações](#outras-informações)
-- [Licença](#licença)
-- [Equipe](#equipe)
-  
+s
 # Descrição
 
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
+Esse é um mega projeto, aonde estou colocando 50 projetos web, utilizando HTML, CSS e JavaScript. Que serão desenvolvidos em 50 dias ou menos. A ideia é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
 
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
+Fique à vontade para olhar, baixar, estudar e dar dicas. 
 
 <!-- 
     AS IMAGENS DE BANNERS EU COLOQUEI UM TAMANHO DE 1280 X 300 
     PARA IMAGENS DE TELA E OUTRAS NECESSIDADES, COLOQUE 1280 X 1280
 -->
-![IMAGEM DO PROJETO](https://user-images.githubusercontent.com/6373438/157749627-e718fa74-f7ce-49e8-9ffa-81271f47daf5.png)
+![IMAGEM DO PROJETO](https://user-images.githubusercontent.com/6373438/164739548-b9cdab70-729e-4a9d-9cbd-e4bbd82c384e.png)
 
 # Projetos
 
@@ -44,46 +37,3 @@ Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao esta
 - [06_Split_Landing](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/06_split_landing/)
 - [07_Form_Input_Wave](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/07_form_input_wave/)
 - [08_Sound_Board](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/08_sound_board/)
-
-# Tecnologias Envolvidas
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-- Tech 01
-- Tech 02
-- Tech 03
-
-# Roadmap
-- [x] Configuração do Projeto
-- [ ] Criação da Interface
-- [ ] Correção de Bugs 
-
-# Outras informações
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Licença
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-# Equipe
-
-É importante questionar o quanto a crescente influência da mídia oferece uma interessante oportunidade para verificação das condições financeiras e administrativas exigidas.
-
-Caros amigos, a revolução dos costumes acarreta um processo de reformulação e modernização das posturas dos órgãos dirigentes com relação às suas atribuições.
-
-Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao estabelecimento do sistema de participação geral.
-
-Pessoa | Cargo | Social Link
-:-----:|:-----:|:----------:
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
-Adriano | TechLead | [Github](http://www.github.com/adrianoleitedasilva)
