@@ -29,6 +29,7 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 
 # Projetos
 
+- [00_starter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/00_starter/)
 - [01_Expanding Cards](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/01_expanding_cards/)
 - [02_Rotate_Nav](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/02_rotate_nav/)
 - [03_Hidden_Search](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/03_hidden_search/)
@@ -37,3 +38,10 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [06_Split_Landing](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/06_split_landing/)
 - [07_Form_Input_Wave](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/07_form_input_wave/)
 - [08_Sound_Board](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/08_sound_board/)
+- [09_Jokes](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/09_jokes/)
+- [10_Event_KeyCodes](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/10_event_keycodes/)
+- [11_FAQ](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/11_faq/)
+- [12_Random_Choice_Picker](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/12_random_choice_picker/)
+- [13_Animated_Navigation](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/13_animated_navigation/)
+- [14_Incrementing_Counter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/14_incrementing_navigation/)
+- [15_Drink_Water](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/15_drink_water/)
