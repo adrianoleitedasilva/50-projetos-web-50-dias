@@ -40,10 +40,10 @@ Pensando mais a longo prazo, a percepção das dificuldades agrega valor ao esta
 - [02_Rotate_Nav](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/02_rotate_nav/)
 - [03_Hidden_Search](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/03_hidden_search/)
 - [04_Blurry_Load](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/04_blurry_load/)
-- [05_Scroll_Animation](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/04_scroll_animation/)
+- [05_Scroll_Animation](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/05_scroll_animation/)
 - [06_Split_Landing](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/06_split_landing/)
-- [07_form_input_wave](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/07_form_input_wave/)
-- [08_sound_board](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/08_sound_board/)
+- [07_Form_Input_Wave](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/07_form_input_wave/)
+- [08_Sound_Board](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/08_sound_board/)
 
 # Tecnologias Envolvidas
 
