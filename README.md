@@ -29,7 +29,7 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 
 # Projetos
 
-- [00_starter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/00_starter/)
+- [00_Starter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/00_starter/)
 - [01_Expanding Cards](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/01_expanding_cards/)
 - [02_Rotate_Nav](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/02_rotate_nav/)
 - [03_Hidden_Search](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/03_hidden_search/)
@@ -48,3 +48,5 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [16_Movie_APP](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/16_movie_app/)
 - [17_Background_Slider](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/17_background_slider/)
 - [18_Theme_Clock](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/18_theme_clock/)
+- [19_Button_Ripple_Effect](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/19_button_ripple_effect/)
+- [20_Drag_Drop](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/20_drag_drop/)
