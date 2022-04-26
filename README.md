@@ -45,3 +45,6 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [13_Animated_Navigation](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/13_animated_navigation/)
 - [14_Incrementing_Counter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/14_incrementing_counter/)
 - [15_Drink_Water](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/15_drink_water/)
+- [16_Movie_APP](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/16_movie_app/)
+- [17_Background_Slider](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/17_background_slider/)
+- [18_Theme_Clock](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/18_theme_clock/)
