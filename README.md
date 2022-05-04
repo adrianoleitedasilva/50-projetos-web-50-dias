@@ -57,3 +57,6 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [25 - Vertical Slider](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/25_vertical_slider/)
 - [26 - Toast Notification](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/26_toast_notification/)
 - [27 - Github Profiles](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/27_github_profiles/)
+- [28 - Double Click Heart](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/28_double_click_heart/)
+- [29 - AutoText Effect](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/29_auto_text_effect/)
+- [30 - Password Generator](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/30_password_generator/)
