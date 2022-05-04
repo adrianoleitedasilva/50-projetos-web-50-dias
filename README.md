@@ -50,3 +50,8 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [18_Theme_Clock](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/18_theme_clock/)
 - [19_Button_Ripple_Effect](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/19_button_ripple_effect/)
 - [20_Drag_Drop](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/20_drag_drop/)
+- [21_Drawing_App](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/21_drawing_app/)
+- [22_Kinect_Loader](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/22_kinect_loader/)
+- [23_Content_Placeholder](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/23_content_placeholder/)
+- [24_Sticky_Nav](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/24_sticky_nav/)
+- [25_Vertical_Slider](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/25_vertical_slider/)
