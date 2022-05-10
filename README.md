@@ -65,4 +65,4 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [33 - Animated CountDown](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/33_animated_countdown/)
 - [34 - Image Carousel](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/34_image_carousel/)
 - [35 - HoverBoard](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/35_hoverboard/)
-- [36 - Pokedex](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/36_/)
+- [36 - Pokedex](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/36_pokedex/)
