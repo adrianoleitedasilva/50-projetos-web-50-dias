@@ -60,3 +60,5 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [28 - Double Click Heart](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/28_double_click_heart/)
 - [29 - AutoText Effect](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/29_auto_text_effect/)
 - [30 - Password Generator](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/30_password_generator/)
+- [31 - Good Cheap](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/31_good_cheap/)
+- [32 - Notes](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/32_notes/)
