@@ -62,3 +62,7 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [30 - Password Generator](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/30_password_generator/)
 - [31 - Good Cheap](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/31_good_cheap/)
 - [32 - Notes](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/32_notes/)
+- [33 - Animated CountDown](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/33_animated_countdown/)
+- [34 - Image Carousel](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/34_image_carousel/)
+- [35 - HoverBoard](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/35_hoverboard/)
+- [36 - ](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/36_/)
