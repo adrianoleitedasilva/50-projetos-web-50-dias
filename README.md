@@ -66,3 +66,8 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [34 - Image Carousel](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/34_image_carousel/)
 - [35 - HoverBoard](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/35_hoverboard/)
 - [36 - Pokedex](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/36_pokedex/)
+- [37 - Mobile Tab](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/37_mobile_tab/)
+- [38 - Image Passwaord Strength](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/38_password_strength/)
+- [39 - 3D Background Image Box](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/39_3d_background/)
+- [40 - Verify Account UI](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/40_verify_account_ui)
+- [41 - Live User Filter](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/41_live_user_filter)
