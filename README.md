@@ -10,8 +10,7 @@
 ![ShielddoProjeto](https://img.shields.io/github/last-commit/adrianoleitedasilva/50-projetos-web-50-dias?style=for-the-badge)
 
 <!-- Envie a imagem por meio de uma ISSUE e cole o link aqui nessa linha abaixo -->
-![BANNER DO PROJETO](https://user-images.githubusercontent.com/6373438/164737115-a20006a8-b50a-4231-a7be-eccb3337e5af.png)
-
+![50 Projetos em 50 Dias](https://user-images.githubusercontent.com/6373438/169385152-6ca131e3-559a-4527-a510-c9d212569a70.png)
 - [Descrição](#descrição)
 - [Projetos](#projetos)
 
