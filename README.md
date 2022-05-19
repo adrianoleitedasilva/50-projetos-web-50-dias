@@ -78,3 +78,4 @@ Fique à vontade para olhar, baixar, estudar e dar dicas.
 - [47 - Random Image Feed](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/47_random_image_feed)
 - [48 - ToDo List](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/48_todo_list)
 - [49 - Insect Catch Game](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/49_insect_catch_game)
+- [50 - Waves](https://adrianoleitedasilva.github.io/50-projetos-web-50-dias/50_waves)
